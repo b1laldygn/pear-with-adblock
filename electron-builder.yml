@@ -3,6 +3,7 @@ productName: "\u0059\u006f\u0075\u0054\u0075\u0062\u0065\u0020\u004d\u0075\u0073
 files:
   - '!*'
   - dist
+  - "src/plugins/**/*"
   - assets
   - license
   - '!node_modules'

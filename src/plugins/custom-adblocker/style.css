@@ -1,0 +1,7 @@
+.ytp-ad-overlay-container,
+.ytmusic-mealbar-promo-renderer,
+ytmusic-ad-banner-renderer,
+.ad-interrupting,
+.ytp-ad-module {
+  display: none !important;
+}
